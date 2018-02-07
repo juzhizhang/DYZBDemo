@@ -24,45 +24,5 @@
             </objects>
             <point key="canvasLocation" x="-167" y="-367"/>
         </scene>
-        <!--Home-->
-        <scene sceneID="tMe-Rr-LpL">
-            <objects>
-                <viewControllerPlaceholder storyboardName="Home" id="MHd-Wv-KQj" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="LWh-mM-xW6"/>
-                </viewControllerPlaceholder>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="pcO-Ao-bOV" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="5243.1999999999998" y="-343.62818590704649"/>
-        </scene>
-        <!--Live-->
-        <scene sceneID="hmF-yG-0oI">
-            <objects>
-                <viewControllerPlaceholder storyboardName="Live" id="Lca-g2-bSF" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="aFL-Sz-wx1"/>
-                </viewControllerPlaceholder>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="xrE-Qx-ASo" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="4322.3999999999996" y="-325.63718140929535"/>
-        </scene>
-        <!--Follow-->
-        <scene sceneID="pnl-oi-5yn">
-            <objects>
-                <viewControllerPlaceholder storyboardName="Follow" id="9b3-TQ-njz" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="734-gS-YEf"/>
-                </viewControllerPlaceholder>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="0Ov-WT-srV" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="248" y="-579"/>
-        </scene>
-        <!--Profile-->
-        <scene sceneID="K8q-8c-qda">
-            <objects>
-                <viewControllerPlaceholder storyboardName="Profile" id="CfF-cj-xbG" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="Dd1-KT-RvW"/>
-                </viewControllerPlaceholder>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="7VR-Wa-QlJ" userLabel="First Responder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="248" y="-655"/>
-        </scene>
     </scenes>
 </document>
